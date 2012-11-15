@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testiä. Konflikti mu!!!!!!
+=======
+testiä. Konflikti mu!!!!!!
+>>>>>>> testing
