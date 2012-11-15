@@ -1,7 +1,7 @@
 Library ieee;
 use ieee.std_logic_1164.all;
 
-entity CRC_RX is
+entity CRC_RX 
 	generic (initti: std_logic_vector(7 downto 0):= "00000000");
 	port(
 		clk, init, serial_in, en_crc, en_ok:in std_logic;
